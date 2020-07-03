@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #1B1B43;
+}
+
+
+.card {
+  width: 300px;
+  height: 100%;
+  margin: 10% auto;
+  background: #fff;
+  border-radius: 4px;
+}
+
+.card .card-inner {
+  text-align: center;
+  line-height: 3;
+  display: block;
+}
+
+img {
+  width: 15px;
+  padding: 10px;
+  background: #fff;
+  border-radius: 4px;
+  position: relative;
+  top: 5px;
+  left: -10x;
+  margin-right: 20px;
+}
+
+button h4{
+  padding-right: 15px;
+}
+
+button {
+  display: flex;
+  position: relative;
+}
